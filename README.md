@@ -18,7 +18,7 @@ Only use this mod if you run into this bug. Set it up, recruit Lam, and then res
 6. Go back to `\EiyudenChronicle_Data\StreamingAssets\aa\StandaloneWindows64` and restore your back up. (For example, delete the modified file, and rename the `3a52e2d360a274202f3dab4a30b75859.bundle.bak` file back to `3a52e2d360a274202f3dab4a30b75859.bundle`.
 7. Enjoy!
 
-Note: The original file is `1,189 KB`. The mod is `10,388 KB.`
+Note: The original file is `1,189 KB`. The mod is `10,388 KB`.
 
 ## Technical details
 
