@@ -1,3 +1,6 @@
+# THIS BUG HAS BEEN FIXED AS OF V1.04. THERE IS NO REASON TO USE THIS.
+I am leaving this release here for archival purposes. Again: DO NOT USE THIS ANYMORE.
+
 # The Lam Bug
 
 It looks like the developers tried to make the Riufan Inn scene optional, but made a huge error in doing so.
